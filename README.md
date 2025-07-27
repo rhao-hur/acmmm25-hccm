@@ -3,4 +3,4 @@ Official implementation of our ACM MM 2025 paper:
 
 ---
 
-🛠️ Code and models coming soon.
+The code and models are coming soon.
